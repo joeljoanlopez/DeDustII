@@ -3,7 +3,32 @@ guid: c067a6a4fe6673b4eb33240da8921391
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadOutHi
+    second: {fileID: 2100000, guid: 5d1c4b962fde0e74ba5bd6b8129ceeb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallDoor
+    second: {fileID: 2100000, guid: 9a8e3b3980469c8488c47e91b6c0ffca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallEdges
+    second: {fileID: 2100000, guid: b7094f855d40606448c7cca03e216e4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallMid
+    second: {fileID: 2100000, guid: 9389e1e6fddb4074ab5b5bd94642e1c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallTubes
+    second: {fileID: 2100000, guid: 3117790563846c04091133270f2c9e6d, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

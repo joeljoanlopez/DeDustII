@@ -3,7 +3,22 @@ guid: 563622c3e1eb7ca44ab0ca902b0f0093
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChairBody
+    second: {fileID: 2100000, guid: 0b4466e32e205144e9b0b11958a74baa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChairCushion
+    second: {fileID: 2100000, guid: 0f9f0eccc9cb59648ba339bdc0583a4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChairSupport
+    second: {fileID: 2100000, guid: 4fc6cdf47e1d55649b516b3862e92891, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

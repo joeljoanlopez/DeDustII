@@ -3,7 +3,32 @@ guid: 8a335fb7e86055e40a987f79d4383332
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ControlPanelFoot
+    second: {fileID: 2100000, guid: 693ed398ddaf9c144a12724fb0339444, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ControlPanelScreen
+    second: {fileID: 2100000, guid: cea2d6e178a2a9046af768250b0d6391, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ControlPanelScreenBody
+    second: {fileID: 2100000, guid: 7f44697fa6ada854ba40b6c4fd5308f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ControlPanelSupport
+    second: {fileID: 2100000, guid: 8db8284a0381dea458e0bc6ccbfe6e52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ControlPanelkeyboard
+    second: {fileID: 2100000, guid: 5926e8dc9b5a58847b6ff737c9c5c7ff, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
