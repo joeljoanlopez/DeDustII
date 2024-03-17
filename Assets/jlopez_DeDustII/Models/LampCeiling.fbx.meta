@@ -3,7 +3,22 @@ guid: 240446cf2c628834aaac5c13bae53d89
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CeilingLampBody
+    second: {fileID: 2100000, guid: 116b1fa9fd07f83498909ae8de366e96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CeilingLampLights
+    second: {fileID: 2100000, guid: 1bcec1652d9420d459553edf834c3288, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CeilingLampSupport
+    second: {fileID: 2100000, guid: ee0347d4920517b4dbfa6deaeede770e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -90,7 +105,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.0508
+    globalScale: 2
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0

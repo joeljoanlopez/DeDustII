@@ -3,7 +3,27 @@ guid: bac37a30ec3cbd1479eb3c6e816ee83c
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #556
+    second: {fileID: 2100000, guid: 7019ace4a3831bb4b8e3c28db840b082, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ScreenBase
+    second: {fileID: 2100000, guid: 0ec40cca3ad940c428fac2f46613a1de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ScreenBody
+    second: {fileID: 2100000, guid: dc71fa777718fae459468112b027945c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ScreenSupports
+    second: {fileID: 2100000, guid: b201d3012644d584089b6d5ce333d283, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
